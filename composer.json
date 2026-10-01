@@ -1,0 +1,9 @@
+{
+    "name": "moreseen/moreseen",
+    "description": "Moreseen movie and TV recommendation platform",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.7",
+        "google/apiclient": "^2.15.0"
+    }
+}
